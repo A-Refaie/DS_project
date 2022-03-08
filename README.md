@@ -31,7 +31,7 @@ The file contains two notebooks (one for data processing and one for data analys
 
 ## Results<a name="results"></a>
 
-The results of the analysis can be summerized as follows:
+The results of the analysis was published as blog post on medium and can be found [here](https://medium.com/@refa3e1994/heart-disease-and-its-main-life-style-indicators-1730eaf8532f). The results of the analysis can be summerized as follows:
 
 - Heart disease has a significant effect on individuals general health which shows as physical and mental fatigue. 
 - The most common indicator of heart disease are: low income, being a former smoker, and divorced or single individuals.
